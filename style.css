@@ -1,0 +1,70 @@
+body{
+background-color: antiquewhite;
+	padding:0;
+	margin: 0;
+}
+.about{
+	font-family: cursive;
+	color:blue;
+}
+.marquee{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: blueviolet;
+}
+
+.head{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color:darkslategray;
+
+}
+button{
+	background-color:rgb(22, 13, 109) ;
+	border:none;
+	position:absolute;
+	transform:translate(-50%, -50%);
+	top: 40%;
+	left:20%;
+	padding:20px 50px;
+	 font-size: 30px;
+	 font-weight: bold;
+	 color:green;
+	
+
+
+	
+
+
+
+
+}
+
+.button2 {
+	background-color:rgb(22, 13, 109) ;
+	border:none;
+	position:absolute;
+	transform:translate(-50%, -50%);
+	top: 82%;
+	left:20%;
+	padding:20px 50px;
+	 font-size: 30px;
+	 font-weight: bold;
+	 color:green;
+	
+
+}
+.button3{
+	background-color:black;
+	border: none;
+	position:absolute;
+	transform: translate(-50%,-50%);
+	top:135%;
+	left:20%;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+
+}
+.subscribe{
+	color:chocolate;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
